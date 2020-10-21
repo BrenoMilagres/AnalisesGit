@@ -16,4 +16,7 @@ Scikit-learn, matplotlib e Numpy, além de consultas SQL e visualização de dad
 - Machine learning
 - SQL
 
+#### **_Links para projetos_**
+
+-modeloPreditivoCampBrasileiro[Flex Grid]https://github.com/BrenoMilagres/DataScienceProjetos/blob/master/modeloPreditivoCampBrasileiroTemp.ipynb
 
