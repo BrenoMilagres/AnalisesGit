@@ -18,5 +18,5 @@ Scikit-learn, matplotlib e Numpy, além de consultas SQL e visualização de dad
 
 #### **_Links para projetos_**
 
-- Modelo preditivo para prever o total de gols em uma partida de futebol 
+- Modelo preditivo para total de gols em uma partida de futebol 
 > https://github.com/BrenoMilagres/DataScienceProjetos/blob/master/modeloPreditivoCampBrasileiroTemp.ipynb 
