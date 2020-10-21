@@ -19,4 +19,19 @@ Scikit-learn, matplotlib e Numpy, além de consultas SQL e visualização de dad
 #### **_Links para projetos_**
 
 - Modelo preditivo para total de gols em uma partida de futebol 
-> https://github.com/BrenoMilagres/DataScienceProjetos/blob/master/modeloPreditivoCampBrasileiroTemp.ipynb 
+> https://github.com/BrenoMilagres/DataScienceProjetos/blob/master/modeloPreditivoCampBrasileiroTemp.ipynb
+
+- Utilizando regressão para prever a quantidade de bicicletas alugadas.
+> https://github.com/BrenoMilagres/DataScienceProjetos/blob/master/regress%C3%A3oAlugueisBicicletas.ipynb
+
+- Análise exploratória e estatística sobre pacientes de um consultório médico.
+> https://github.com/BrenoMilagres/DataScienceProjetos/blob/master/analiseConsultorio.ipynb
+
+- Análise exploratória base de dados do futebol europeu.
+> https://github.com/BrenoMilagres/DataScienceProjetos/blob/master/analiseExploratoriaFutebol.ipynb
+
+- Comparação de modelos preditivos para classificação de vinhos
+> https://github.com/BrenoMilagres/DataScienceProjetos/blob/master/classifica%C3%A7%C3%A3oVinhos.ipynb
+
+- Setembro Amarelo: análise do suicídio no Brasil com Data Science
+> https://github.com/BrenoMilagres/DataScienceProjetos/blob/master/analiseSetembroAmarelo.ipynb
