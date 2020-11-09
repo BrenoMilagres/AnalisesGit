@@ -35,3 +35,6 @@ Scikit-learn, matplotlib e Numpy, além de consultas SQL e visualização de dad
 
 - Setembro Amarelo: análise do suicídio no Brasil com Data Science
 > https://github.com/BrenoMilagres/DataScienceProjetos/blob/master/analiseSetembroAmarelo.ipynb
+
+- Web Scraping com R, dados do campeonato brasileiro 2020
+> https://github.com/BrenoMilagres/DataScienceProjetos/blob/master/WebScrapingBrasileirao2020.ipynb
