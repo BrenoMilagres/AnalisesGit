@@ -38,3 +38,6 @@ Scikit-learn, matplotlib e Numpy, além de consultas SQL e visualização de dad
 
 - Web Scraping com R, dados do campeonato brasileiro 2020
 > https://github.com/BrenoMilagres/DataScienceProjetos/blob/master/WebScrapingBrasileirao2020.ipynb
+
+- Desafio Cappta, análise para conversão de clientes e direcionamento de campanha.
+> https://github.com/BrenoMilagres/DataScienceProjetos_Python_R/blob/master/DesafioCappta.ipynb
