@@ -21,6 +21,9 @@ Scikit-learn, matplotlib e Numpy, além de consultas SQL e visualização de dad
 - Modelo preditivo para total de gols em uma partida de futebol 
 > https://github.com/BrenoMilagres/DataScienceProjetos/blob/master/modeloPreditivoCampBrasileiroTemp.ipynb
 
+- Sistema de recomendação de filmes (Base de dados netflix)
+> https://github.com/BrenoMilagres/DataScienceProjetos_Python_R/blob/master/Sistema_recomendacao_filmes.ipynb
+
 - Utilizando regressão para prever a quantidade de bicicletas alugadas.
 > https://github.com/BrenoMilagres/DataScienceProjetos/blob/master/regress%C3%A3oAlugueisBicicletas.ipynb
 
